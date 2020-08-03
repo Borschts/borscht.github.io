@@ -12,7 +12,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 本中文指南是基於原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻譯版本的最新翻譯；
 
-本文另有：[简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+本文另有：[简体中文版](https://borschts.github.io/How-To-Ask-Questions-The-Smart-Way/zh-cn)
 
 ## 目錄
   * [聲明](#聲明)
@@ -660,5 +660,3 @@ RTFM 有一個年輕的親戚。如果你收到```STFW（Search The Fucking Web�
 
 當你發布軟體或補丁時，試著按[軟體發布實踐](http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html)操作。
 
-## 鳴謝
-Evelyn Mitchel 貢獻了一些愚蠢問題例子並啟發了編寫```如何更好地回答問題```這一節， Mikhail Ramendik 貢獻了一些特別有價值的建議和改進。
