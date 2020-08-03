@@ -13,9 +13,6 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 本中文指南是基於原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻譯版本的最新翻譯；
 
-__
-
-
 本文另有：[简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 ## 目錄
@@ -89,8 +86,6 @@ __本指南不提供此專案的實際支援服務！__
 所以，你不必在技術上很在行才能吸引我們的注意，但你必須表現出能引導你變得在行的特質──機敏、有想法、善於觀察、樂於主動參與解決問題。如果你做不到這些使你與眾不同的事情，我們建議你花點錢找家商業公司簽個技術支援服務合同，而不是要求黑客個人無償地幫助你。
 
 如果你決定向我們求助，當然你也不希望被視為失敗者，更不願成為失敗者中的一員。能立刻得到快速並有效答案的最好方法，就是像贏家那樣提問──聰明、自信、有解決問題的思路，只是偶爾在特定的問題上需要獲得一點幫助。
-
-（歡迎對本指南提出改進意見。你可以 email 你的建議至 [esr@thyrsus.com](esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](respond-auto@linuxmafia.com)。然而請注意，本文並非[網路禮節](http://www.ietf.org/rfc/rfc1855.txt)的通用指南，而我們通常會拒絕無助於在技術論壇得到有用答案的建議。）
 
 ## 在提問之前
 
